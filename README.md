@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**HilmiCy/HilmiCy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Halo! Saya Fadhil Cahya Hilmi
 
-Here are some ideas to get you started:
+👨‍💻 Programmer Android | Pencinta Kotlin | Pengembang Aplikasi Mobile | Pengembang Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Berpengalaman dalam pengembangan aplikasi Android menggunakan Kotlin dan Java
+
+💡 Memiliki minat khusus dalam UX/UI untuk menciptakan pengalaman pengguna yang luar biasa
+
+📱 Berkomitmen untuk menciptakan aplikasi yang responsif, efisien, dan dapat diandalkan
+
+🌱 Selalu belajar dan mengeksplorasi teknologi terbaru dalam ekosistem Android
+
+🔍 Saya terbuka untuk kolaborasi dan kontribusi dalam proyek-proyek yang menantang di dunia Android
+
+📫 Jika Anda ingin berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui email atau melalui platform ini!
+
+Keep coding, keep building! 🚀
+
+
