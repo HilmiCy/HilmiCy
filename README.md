@@ -1,24 +1,64 @@
 # Fadhil Cahya Hilmi
 
-Android Programmer | Kotlin Enthusiast | Mobile App Developer | Web Developer
+Fresh Graduate | Data Science Enthusiast | Full-Stack Developer | UI/UX Focused
 
 ---
 
 ### About Me
 
-Experienced in Android application development using Kotlin and Java. Special interest in UX/UI to create exceptional user experiences. Committed to building responsive, efficient, and reliable applications.
+Passionate fresh graduate with strong interests in data science, data analytics, UI/UX design, and full-stack web development. Focused on transforming complex ideas into modern digital solutions that are both functional and user-centered.
 
-Continuously learning and exploring emerging technologies within the Android ecosystem. Open to collaboration and contribution on challenging Android projects.
+Experienced in building decision support systems, interactive web applications, and data-driven projects using Laravel, React, JavaScript, Python, and MySQL.
 
-For collaboration or inquiries, please reach out via email or this platform.
+Beyond development, continuously exploring emerging technologies, design trends, and data-driven approaches to improve user interaction with digital products.
+
+---
+
+### Core Highlights
+
+**Full-Stack Development**
+Building scalable and responsive web applications with modern technologies and clean architecture.
+
+**Data-Driven Solutions**
+Transforming complex data into meaningful insights and intelligent digital experiences.
+
+**UI/UX Focus**
+Designing intuitive interfaces and seamless user experiences with a modern visual approach.
+
+**Continuous Learning**
+Exploring emerging technologies, data science, and innovative development practices.
+
+---
+
+### Philosophy
+
+My goal is to create digital solutions that combine technology, data, and design into meaningful experiences that deliver real impact.
 
 ---
 
 ### GitHub Statistics
 
 <p align="left">
-  <a href="https://github.com/penuliscode">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia" />
 </p>
+
+### Contribution Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penuliscode&theme=algolia&hide_border=true" />
+</p>
+
+### Activity Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=penuliscode&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=penuliscode&style=flat-square&color=blue" />
+
+---
+
+### Connect
+
+For collaboration or inquiries, please reach out via email or this platform.
