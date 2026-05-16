@@ -1,29 +1,24 @@
-### Hi there 👋
+# Fadhil Cahya Hilmi
 
-👋 Halo! Saya Fadhil Cahya Hilmi
+Android Programmer | Kotlin Enthusiast | Mobile App Developer | Web Developer
 
-👨‍💻 Programmer Android | Pencinta Kotlin | Pengembang Aplikasi Mobile | Pengembang Web
+---
 
-🔧 Berpengalaman dalam pengembangan aplikasi Android menggunakan Kotlin dan Java
+### About Me
 
-💡 Memiliki minat khusus dalam UX/UI untuk menciptakan pengalaman pengguna yang luar biasa
+Experienced in Android application development using Kotlin and Java. Special interest in UX/UI to create exceptional user experiences. Committed to building responsive, efficient, and reliable applications.
 
-📱 Berkomitmen untuk menciptakan aplikasi yang responsif, efisien, dan dapat diandalkan
+Continuously learning and exploring emerging technologies within the Android ecosystem. Open to collaboration and contribution on challenging Android projects.
 
-🌱 Selalu belajar dan mengeksplorasi teknologi terbaru dalam ekosistem Android
+For collaboration or inquiries, please reach out via email or this platform.
 
-🔍 Saya terbuka untuk kolaborasi dan kontribusi dalam proyek-proyek yang menantang di dunia Android
+---
 
-📫 Jika Anda ingin berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui email atau melalui platform ini!
+### GitHub Statistics
 
-Keep coding, keep building! 🚀
-
-### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
+  <a href="https://github.com/penuliscode">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia" />
+  </a>
 </p>
-
-
