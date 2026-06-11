@@ -62,6 +62,13 @@ philosophy : "Combine technology, design, and data
 </div>
 
 ---
+<!-- Animated Mascot --> 
+<div align="center"> 
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAC/cute-cat.gif" width="120"> 
+  <br> 
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" /> </div>
+
+---
 
 ## ＿ Tech stack
 
