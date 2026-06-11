@@ -64,7 +64,7 @@ philosophy : "Combine technology, design, and data
 ---
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=HilmiCy&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+<img src="https://raw.githubusercontent.com/HilmiCy/HilmiCy/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
