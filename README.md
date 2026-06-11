@@ -62,7 +62,13 @@ philosophy : "Combine technology, design, and data
 </div>
 
 ---
-<!-- Coding Cat --> <div align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"> </div>
+<h2>＿ Skill Universe</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,python,java,git,github,vscode,figma,postman"/>
+
+</div>
 
 ---
 
