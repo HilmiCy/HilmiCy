@@ -1,12 +1,9 @@
 <div align="center">
 
 ```
-███████╗ ██████╗██╗  ██╗
-██╔════╝██╔════╝██║  ██║
-█████╗  ██║     ███████║
-██╔══╝  ██║     ██╔══██║
-██║     ╚██████╗██║  ██║
-╚═╝      ╚═════╝╚═╝  ╚═╝
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-acc2ac53-2d35-4f34-9c3e-2c8f1f2f2d91.gif" width="700">
+</div>
 ```
 
 # Fadhil Cahya Hilmi
@@ -59,12 +56,6 @@ philosophy : "Combine technology, design, and data
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HilmiCy&theme=react-dark&bg_color=0d1117&color=64ffda&line=818cf8&point=f472b6&hide_border=true&area=true&area_color=64ffda" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="500">
 </div>
 
 ---
