@@ -62,10 +62,9 @@ philosophy : "Combine technology, design, and data
 </div>
 
 ---
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/HilmiCy/HilmiCy/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650">
 </div>
 
 ---
