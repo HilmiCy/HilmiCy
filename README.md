@@ -62,11 +62,9 @@ philosophy : "Combine technology, design, and data
 </div>
 
 ---
-<h2>＿ Skill Universe</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,python,java,git,github,vscode,figma,postman"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=HilmiCy&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
 
 </div>
 
