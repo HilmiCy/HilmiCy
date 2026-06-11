@@ -64,7 +64,7 @@ philosophy : "Combine technology, design, and data
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650">
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="500">
 </div>
 
 ---
