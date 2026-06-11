@@ -1,14 +1,8 @@
 <div align="center">
 
-```
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-acc2ac53-2d35-4f34-9c3e-2c8f1f2f2d91.gif" width="700">
-</div>
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:64ffda,100:818cf8&text=Fadhil%20Cahya%20Hilmi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Fadhil Cahya Hilmi
-
-**Fresh Graduate · Data Science · Full-Stack Dev · UI/UX**
+** Data Science · Full-Stack Dev · Mobile Dev · UI/UX **
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Transforming+data+into+digital+experiences;Laravel+%7C+React+%7C+Python+%7C+MySQL;Building+user-centered+modern+solutions;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -20,7 +14,7 @@
 
 ---
 
-## ＿ About me
+##  About me
 
 ```yaml
 name       : Fadhil Cahya Hilmi
@@ -36,7 +30,7 @@ philosophy : "Combine technology, design, and data
 
 ---
 
-## ＿ GitHub statistics
+##  GitHub statistics
 
 <div align="center">
 
@@ -60,7 +54,7 @@ philosophy : "Combine technology, design, and data
 
 ---
 
-## ＿ Tech stack
+##  Tech stack
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
@@ -75,6 +69,14 @@ philosophy : "Combine technology, design, and data
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff2d20)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
 
+#### Mobile Development
+![Android](https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+
 #### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572a5)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ed8b00)
@@ -85,11 +87,11 @@ philosophy : "Combine technology, design, and data
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=a259ff)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
-![XAMPP](https://img.shields.io/badge/XAMPP-0d1117?style=flat-square&logo=xampp&logoColor=fb7a24)
+![Laragon](https://img.shields.io/badge/Laragon-0d1117?style=flat-square&logo=windows-terminal&logoColor=0ea5e9)
 
 ---
 
-## ＿ Core highlights
+##  Core highlights
 
 <table>
   <tr>
@@ -126,7 +128,7 @@ philosophy : "Combine technology, design, and data
 
 ---
 
-## ＿ Current interests
+##  Current interests
 
 ```
   ◈  Full-Stack Web Development     ◈  Data Science & Analytics
@@ -136,7 +138,7 @@ philosophy : "Combine technology, design, and data
 
 ---
 
-## ＿ Connect
+##  Connect
 
 <div align="center">
 
