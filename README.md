@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HilmiCy&style=flat-square&color=64ffda&labelColor=0d1117&label=Profile+Views)](https://github.com/HilmiCy)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/HilmiCy?style=flat-square&color=818cf8&labelColor=0d1117&label=Followers)](https://github.com/HilmiCy)
+[![GitHub followers](https://img.shields.io/github/followers/HilmiCy?style=flat-square)](https://github.com/HilmiCy)
 
 </div>
 
