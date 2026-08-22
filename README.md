@@ -30,31 +30,33 @@ philosophy : "Combine technology, design, and data
 
 ---
 
-##  GitHub statistics
+## GitHub statistics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HilmiCy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=818cf8&text_color=c9d1d9" />
+<img
+  height="175em"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=HilmiCy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=818cf8&text_color=c9d1d9"
+/>
 
-<div align="center">
+<br><br>
 
-<div align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=HilmiCy&theme=algolia&no-frame=true&margin-w=10"
+/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HilmiCy&theme=algolia&no-frame=true&margin-w=10" />
+<br><br>
 
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=HilmiCy&theme=algolia&hide_border=true&background=0d1117&stroke=64ffda&ring=818cf8&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=818cf8&dates=6e7681&v=2"
+/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HilmiCy&theme=algolia&hide_border=true&background=0d1117&stroke=64ffda&ring=818cf8&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=818cf8&dates=6e7681&v=2" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HilmiCy&theme=react-dark&bg_color=0d1117&color=64ffda&line=818cf8&point=f472b6&hide_border=true&area=true&area_color=64ffda" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HilmiCy&theme=react-dark&bg_color=0d1117&color=64ffda&line=818cf8&point=f472b6&hide_border=true&area=true&area_color=64ffda"
+/>
 
 </div>
 
