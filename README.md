@@ -38,10 +38,9 @@ philosophy : "Combine technology, design, and data
 
 <div align="center">
 
-<img
-  height="175em"
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=HilmiCy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=818cf8&text_color=c9d1d9"
-/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HilmiCy&theme=algolia&no-frame=true&margin-w=10" />
 
 </div>
 
