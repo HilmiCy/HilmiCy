@@ -39,13 +39,10 @@ philosophy : "Combine technology, design, and data
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=HilmiCy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=818cf8&text_color=c9d1d9"
 />
 
-<br><br>
-
 <img
   src="https://streak-stats.demolab.com?user=HilmiCy&theme=algolia&hide_border=true&background=0d1117&stroke=64ffda&ring=818cf8&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=818cf8&dates=6e7681&v=2"
 />
 
-<br><br>
 
 <img
   width="100%"
