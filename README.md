@@ -42,7 +42,7 @@ philosophy : "Combine technology, design, and data
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HilmiCy&theme=algolia&hide_border=true&background=0d1117&stroke=64ffda&ring=818cf8&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=818cf8&dates=6e7681" />
+<img src="https://streak-stats.demolab.com?user=HilmiCy&theme=algolia&hide_border=true&background=0d1117&stroke=64ffda&ring=818cf8&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=64ffda&sideLabels=818cf8&dates=6e7681&v=2" />
 
 </div>
 
